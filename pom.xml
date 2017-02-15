@@ -12,7 +12,7 @@
           <exclude>**/*.java</exclude>
         </excludes>
       </resource>
-    </resources>
+    </resources> <!-- Hello -->
    <plugins>
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
